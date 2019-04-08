@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'graphql'
 gem 'graphql-batch'
 gem 'search_object'
+gem 'pry'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'

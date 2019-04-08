@@ -1,5 +1,5 @@
 module Types
   class MutationType < Types::BaseObject
-    field :approve_album, mutation: Mutations::ApproveAlbum
+    field :album, mutation: Mutations::Album
   end
 end
