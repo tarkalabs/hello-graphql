@@ -15,6 +15,7 @@ module Types
     end
 
     def person
+      #object.person
       RecordLoader.for(Person).load(object.person_id)
     end
 
